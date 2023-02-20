@@ -79,7 +79,7 @@ public class FindRecipe extends JFrame {
       
    }
    
-   // 컴포넌트를 받아서 위치 넓이 지정!!! 
+   // 컴포넌트를 받아서 위치 넓이 지정!!!  
    
    private void gbAdd(JComponent c, int x, int y, int w, int h) {
       gbc.gridx      = x;
