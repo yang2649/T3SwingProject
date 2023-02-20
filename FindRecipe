@@ -37,7 +37,7 @@ public class FindRecipe extends JFrame {
       gb = new GridBagLayout();
       this.setLayout(gb);
       
-      // 카테고리
+      // 카테고리 
       
       gbc = new GridBagConstraints();
       gbc.fill    = GridBagConstraints.BOTH;
